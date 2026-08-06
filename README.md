@@ -1,5 +1,7 @@
 # Lights Camera Returns
 
+![Lights Camera Returns dashboard preview](assets/dashboard-preview.png)
+
 Power BI project by Qasim Ali.
 
 ## Project file
